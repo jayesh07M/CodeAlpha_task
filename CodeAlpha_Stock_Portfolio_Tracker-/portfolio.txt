@@ -1,0 +1,4 @@
+Stock Portfolio
+TSLA 20 250 5000
+GOOGL 20 140 2800
+Total 7800
